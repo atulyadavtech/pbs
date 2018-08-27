@@ -1,0 +1,11 @@
+PBS_EXEC=/opt/pbs
+PBS_SERVER=master.local
+PBS_START_SERVER=0
+PBS_START_SCHED=0
+PBS_START_COMM=0
+PBS_START_MOM=1
+PBS_HOME=/var/spool/pbs
+PBS_CORE_LIMIT=unlimited
+PBS_SCP=/bin/scp
+#PBS_PRIMARY=master1.local
+#PBS_SECONDARY=master2.local
